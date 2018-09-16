@@ -1,0 +1,20 @@
+{
+	"name": "joide",
+	"description": "Javascript Object & Integrated Development Environment",
+	"version": "0.0.0",
+	"main": "joide.js",
+	"author":"Joe K. Kim (@xGovern)",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xgovern/joide"
+	},
+	"keywords":["joide","xgovern","xgov","ide"],
+	"bugs": {
+		"url": "https://github.com/xgovern/joide/issues"
+	},
+	"homepage": "https://xgovern.com",
+	"dependencies": {
+		
+	}
+}
